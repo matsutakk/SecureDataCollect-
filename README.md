@@ -21,7 +21,8 @@
   - Please check this repository, [frontend1](https://github.com/matsutakk/web3youtube), [frontend2](https://github.com/matsutakk/web3twitter). 
 
 - 審査やテストのためにプロジェクトにアクセスする方法など
-  - 
+  - https://web3youtube.vercel.app/
+  - https://web3youtube-pc3i.vercel.app/
   
 
 ## 概要
