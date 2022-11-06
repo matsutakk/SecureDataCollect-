@@ -10,6 +10,9 @@
 - 適当なベクトル[0,1,0]等をを暗号化して準同型暗号によって足し算を行い、暗号化されたまま足し算が行われていること
 
 ```shell
+git clone git@github.com:matsutakk/SecureDataCollect-.git
+cd SecureDataCollect-
+npm install
 npx hardhat help
 REPORT_GAS=true npx hardhat test
 ```
