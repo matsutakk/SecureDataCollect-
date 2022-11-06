@@ -1,8 +1,4 @@
 # SecureDataCollect
-
-
-# zkScore-contracts
-
 - 使用したtech stacks: 
   - フロント:
     - 言語：TypeScript
