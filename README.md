@@ -19,6 +19,7 @@
 - application codeやその他のfile
 - テスト手順を含むリポジトリへのリンク
   - Please check this repository, [frontend1](https://github.com/matsutakk/web3youtube), [frontend2](https://github.com/matsutakk/web3twitter). 
+  - Also our video include the information of screen transition
 
 - 審査やテストのためにプロジェクトにアクセスする方法など
   - https://web3youtube.vercel.app/
