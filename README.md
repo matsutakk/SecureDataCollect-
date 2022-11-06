@@ -3,6 +3,7 @@
 
 ## SecureDataCollect
 - 使用したtech stacks:
+  - 準同型暗号
   - フロント:
     - 言語：TypeScript
     - ライブラリ：React
